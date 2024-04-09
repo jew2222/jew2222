@@ -1,8 +1,6 @@
 <div align="center">
   <h1>프론트엔드 개발자 지망생 jew2222입니다.</h1>
-  <br />
-  <img src="https://server.dooboo.io/github-stats-advanced/jew2222"  height = "400px"/>
-  <br />
+
   <br />
   <h3> Tech Stack Frontend </h3>
   <br />
