@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>프론트엔드 개발자 지망생 jew2222입니다.</h1>
+  <h1>프론트엔드 개발자 jew2222입니다</h1>
 
   <br />
   <h3> Tech Stack Frontend </h3>
